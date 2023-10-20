@@ -11,7 +11,7 @@ intents = discord.Intents.default()
 intents.members = True
 
 client = commands.Bot(command_prefix="!", intents=discord.Intents.all())
-YOUR_API_KEY = "6EVAPAQT7CD2N7H8QPZBCIW1SFXEK6WAP6"
+YOUR_API_KEY = "API key here"
 
 #async def bscapi():
 
